@@ -1,4 +1,4 @@
-# Welcome to Kai Folf's Github Profile
+# 👋 Welcome to Kai Folf's Github Profile
 
 Hi there! I'm Kai (@folfcoder), a student/programmer/folf from Indonesia. I'm passionate about full-stack development, electronics, virtual reality, and more. I love solving problems and creating solutions through technology and programming.
 
@@ -6,12 +6,12 @@ Hi there! I'm Kai (@folfcoder), a student/programmer/folf from Indonesia. I'm pa
 
 Here are some of my most recent projects:
 
-- [Reader](https://reader.fcd.im) - Say hello to the ad-free, lightning-fast Indonesian news reader that'll make you feel like a superhero!
+- 📰 [Reader](https://reader.fcd.im) - Say hello to the ad-free, lightning-fast Indonesian news reader that'll make you feel like a superhero!
 
 ## Skills
 
-- Python - I use Python for automation, backend, Flask app, and more. Published a package on PyPI with over 250k downloads.
-- Web - My stack: SvelteKit, Tailwind, Cloudflare Pages/Workers, and Postgres.
+- 🐍 Python - I use Python for automation, backend, Flask app, and more. Published a package on PyPI with over 250k downloads.
+- 🌐 Web - My stack: SvelteKit, Tailwind, Cloudflare Pages/Workers, and Postgres.
 
 ## Connect with me
 
