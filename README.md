@@ -7,6 +7,7 @@ Hi there! I'm Kai (@folfcoder), a student/programmer/folf from Indonesia. I'm pa
 Here are some of my most recent projects:
 
 - 📰 [Reader](https://reader.fcd.im) - Say hello to the ad-free, lightning-fast Indonesian news reader that'll make you feel like a superhero!
+- 🦈 [Sharkle](https://github.com/folfcoder/plasma-sharkle) - The Sharkle widget, as featured in Night in the Woods, now on KDE Plasma!
 
 ## Skills
 
