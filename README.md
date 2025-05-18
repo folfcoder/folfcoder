@@ -1,6 +1,6 @@
 # 👋 Welcome to Kai's Github Profile
 
-![](https://github.com/folfcoder/folfcoder/assets/40331046/46624155-24fe-4e61-b643-5d53d6d4ca1d)
+![](/banner.jpg)
 
 Hi there! I'm Kai (@folfcoder), a full-time CompSci student and part-time [folf](https://en.wikifur.com/wiki/Folf) from Indonesia. I'm passionate about full-stack development, Linux, electronics, virtual reality, and more. I love solving problems and creating solutions with technology and code.
 
